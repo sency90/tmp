@@ -1,22 +1,36 @@
-# 제목
-## 소제목
-### 후후후
+## OpenCV: Open Source Computer Vision Library
 
-안녕
-엔터가 동작되지 않지
-엔터는 두가지야
 
-엔터<br/>
-아니면 엔터 두번
+### Resources
 
-후후후
+* Homepage: <https://opencv.org>
+  * Courses: <https://opencv.org/courses>
+* Docs: <https://docs.opencv.org/4.x/>
+* Q&A forum: <https://forum.opencv.org>
+  * previous forum (read only): <http://answers.opencv.org>
+* Issue tracking: <https://github.com/opencv/opencv/issues>
+* Additional OpenCV functionality: <https://github.com/opencv/opencv_contrib>
+* Donate to OpenCV: <https://opencv.org/support/>
 
-<img width="2048" height="1228" alt="image" src="https://github.com/user-attachments/assets/6755768b-177e-4132-90a5-734d61e8f503" />
 
-* 하이
-* 후후
+### Contributing
 
-1. 하이
-2. 후후
-3. 호호
-4. 홍홍
+Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before starting work on a pull request.
+
+#### Summary of the guidelines:
+
+* One pull request per issue;
+* Choose the right base branch;
+* Include tests and documentation;
+* Clean up "oops" commits before submitting;
+* Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+
+### Additional Resources
+
+* [Submit your OpenCV-based project](https://form.jotform.com/233105358823151) for inclusion in Community Friday on opencv.org
+* [Subscribe to the OpenCV YouTube Channel](http://youtube.com/@opencvofficial) featuring OpenCV Live, an hour-long streaming show
+* [Follow OpenCV on LinkedIn](http://linkedin.com/company/opencv/) for daily posts showing the state-of-the-art in computer vision & AI
+* [Apply to be an OpenCV Volunteer](https://form.jotform.com/232745316792159) to help organize events and online campaigns as well as amplify them
+* [Follow OpenCV on Mastodon](http://mastodon.social/@opencv) in the Fediverse
+* [Follow OpenCV on Twitter](https://twitter.com/opencvlive)
+* [OpenCV.ai](https://opencv.ai): Computer Vision and AI development services from the OpenCV team.
